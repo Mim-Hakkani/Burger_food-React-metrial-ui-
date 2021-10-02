@@ -1,0 +1,50 @@
+[
+    {
+        "img":"https://templatekit.jegtheme.com/burgry/wp-content/uploads/sites/132/2021/07/PX7A955.png",
+        "title":"REGULAR BEEF BURGER",
+        "price":"40",
+        "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "id" :"1"
+    
+    },
+    {
+        "img":"https://templatekit.jegtheme.com/burgry/wp-content/uploads/sites/132/2021/07/P6GMEWP-x.png",
+        "title":"BLACK BEEF BURGER",
+        "price":"10",
+        "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "id" :"2"
+    
+    },
+    {
+        "img":"https://templatekit.jegtheme.com/burgry/wp-content/uploads/sites/132/2021/07/PEDKKTH.png",
+        "title":"BIG MEETY",
+        "price":"65",
+        "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "id" :"3"
+    
+    },
+    {
+        "img":"https://templatekit.jegtheme.com/burgry/wp-content/uploads/sites/132/2021/07/ZXDPWRF.png",
+        "title":"CHICKEN BURGER",
+        "price":"55",
+        "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "id" :"4"
+    
+    },
+    {
+        "img":"https://templatekit.jegtheme.com/burgry/wp-content/uploads/sites/132/2021/07/PPGQ5ZK.png",
+        "title":"DOUBLE MAC BURGER",
+        "price":"33",
+        "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "id" :"5"
+    
+    },  
+    {
+        "img":"https://templatekit.jegtheme.com/burgry/wp-content/uploads/sites/132/2021/07/PKZ58BH.png",
+        "title":"BEEF CHEESE BURGER",
+        "price":"23",
+        "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "id" :"6"
+    
+    }
+]

@@ -1,0 +1,49 @@
+[
+    {
+        "img":"https://templatekit.jegtheme.com/burgry/wp-content/uploads/sites/132/2021/07/P5MDQD4.png",
+        "title":"FRENCH FRIES",
+        "price":"40",
+        "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "id" :"1"
+    
+    },
+    {
+        "img":"https://templatekit.jegtheme.com/burgry/wp-content/uploads/sites/132/2021/07/PW7Q8J6.png",
+        "title":"FRENCH FRIES",
+        "price":"10",
+        "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "id" :"2"
+    
+    },
+    {
+        "img":"https://templatekit.jegtheme.com/burgry/wp-content/uploads/sites/132/2021/07/5K4DHPU.png",
+        "title":"CHEKEN BURGER",
+        "price":"65",
+        "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "id" :"3"
+    
+    },
+    {
+        "img":"https://templatekit.jegtheme.com/burgry/wp-content/uploads/sites/132/2021/07/PV3GSWE.png",
+        "title":"ALO POSTO WITH ",
+        "price":"55",
+        "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "id" :"4"
+    
+    },
+    {
+        "img":"https://templatekit.jegtheme.com/burgry/wp-content/uploads/sites/132/2021/07/PY5KW5S.png",
+        "title":"BEEF CHEESE BURGER",
+        "price":"33",
+        "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "id" :"5"
+    
+    },  {
+        "img":"https://templatekit.jegtheme.com/burgry/wp-content/uploads/sites/132/2021/07/QCFS4BS-x.png",
+        "title":"BEEF BURGER",
+        "price":"23",
+        "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "id" :"6"
+    
+    }
+]
